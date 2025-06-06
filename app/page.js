@@ -14,7 +14,7 @@ export default function Home() {
   useEffect(() => {
     const script = document.createElement("script");
     script.innerHTML = `
-      (function(){
+           (function(){
         if(!window.chatbase || window.chatbase("getState") !== "initialized") {
           window.chatbase = (...arguments) => {
             if(!window.chatbase.q) { window.chatbase.q = [] }
@@ -30,7 +30,7 @@ export default function Home() {
         const onLoad = function() {
           const script = document.createElement("script");
           script.src = "https://www.chatbase.co/embed.min.js";
-          script.id = "SNfm0vzcnvTEoKcvHFWAl";
+          script.id = "AGyioIoEyg34bvtB7-8Us";
           script.domain = "www.chatbase.co";
           document.body.appendChild(script);
         };

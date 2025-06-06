@@ -28,7 +28,7 @@ export default function LetsConnect() {
         </a>
         <a href="tel:+1234567890" className="flex items-center text-[#94DEA5]"> {/* Replace with your phone number */}
           <PhoneIcon className="h-5 w-5 mr-2" /> {/* Phone icon */}
-          +1 234 567 890
+          +91-7617250631
         </a>
       </div>
     </div>

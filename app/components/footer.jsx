@@ -11,7 +11,7 @@ export default function Footer() {
         transition={{ duration: 0.5 }}
       >
         <div className="text-center">
-          <p className="text-sm">© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p className="text-sm">© {new Date().getFullYear()} Srishti Pandey. All rights reserved.</p>
         </div>
       </motion.div>
     </footer>

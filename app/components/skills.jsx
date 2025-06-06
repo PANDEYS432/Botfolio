@@ -5,19 +5,19 @@ const skillsData = [
   {
     category: "Technical Skills",
     skills: [
-      { name: "React.js", level: 85 },
-      { name: "JavaScript", level: 80 },
-      { name: "HTML", level: 95 },
-      { name: "CSS", level: 90 },
+      { name: "Data Structures and Algorithm", level: 87 },
+      { name: "Node.js", level: 84 },
+      { name: "React.js", level: 95 },
+      { name: "MongoDB", level: 90 },
     ],
   },
   {
     category: "Area of Interest",
     skills: [
-      { name: "Object Oriented Programming", level: 70 },
-      { name: "Operating System", level: 65 },
-      { name: "Database & Management System", level: 80 },
-      { name: "Structured Query Language", level: 75 },
+      { name: "Object Oriented Programming", level: 87 },
+      { name: "Operating System", level: 92 },
+      { name: "Database & Management System", level: 85 },
+      { name: "Structured Query Language", level: 90 },
     ],
   },
 ];

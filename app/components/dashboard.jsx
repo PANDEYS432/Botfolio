@@ -24,9 +24,11 @@ const dashboard = () => {
             <br />
             <TypeAnimation
               sequence={[
-                "Web Developer",
+                "UI/UX Developer",
                 1000,
-                "UI/UX Designer",
+                "Data & DevOps Engineer",
+                1000,
+                "Software Developer",
                 1000,
               ]}
               wrapper="span"
@@ -38,7 +40,7 @@ const dashboard = () => {
           </p>
           <div className="flex flex-col sm:flex-row items-center mt-3">
             <Link
-              href="https://shorturl.at/zodMC"
+              href="https://drive.google.com/file/d/14wyLUeNnQ5c-oIm7h8L0fz4eZSatvV_o/view?usp=drive_link"
               target="_blank"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-[#9A6735] hover:bg-[#94DEA5] text-white mb-2 sm:mb-0"
             >
@@ -72,7 +74,7 @@ const dashboard = () => {
         >
           <div className="rounded-full w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative overflow-hidden">
             <Image
-              src="/images/avatar.jpeg"
+              src="/images/av.jpg"
               alt="avatar"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full"
               width={300}

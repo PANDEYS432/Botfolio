@@ -40,7 +40,7 @@ export default function Leadership() {
       <div className="flex flex-col lg:flex-row w-full h-full lg:space-x-4">
         
         <motion.div
-          className="flex flex-col justify-center items-start p-8 bg-[#d8e8f3] lg:w-1/2 rounded-lg shadow-md mx-4 lg:mx-0"
+          className="flex flex-col justify-center items-start p-8 bg-gradient-to-r animate-gradient lg:w-1/2 rounded-lg shadow-md mx-4 lg:mx-0"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5 }}

@@ -4,6 +4,12 @@ import { BriefcaseIcon } from "@heroicons/react/24/solid";
 
 const experiences = [
   {
+    company: "Predusk Technology Private Limited",
+    profile: "Data & Devops Engineer",
+    duration: "March 2025 - Present",
+    logo: "/images/predusk.jpg",
+  },
+  {
     company: "NTPC",
     profile: "Software Engineer Intern",
     duration: "June 2024 - June 2024",
